@@ -1,5 +1,5 @@
 # GPX Image downloader
-Used to automate download images from exported gpx files.
+Used to automate download images from exported gpx files.<br>
 **NOTE:** Supported input files are with gpx extensions and xml format with ns GPX/1/0
 
 ## 🧐 Features   
