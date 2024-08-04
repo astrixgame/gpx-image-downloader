@@ -1,0 +1,15 @@
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\bin\Debug\GPX Image Exporter.exe.config
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\bin\Debug\GPX Image Exporter.exe
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\bin\Debug\GPX Image Exporter.pdb
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\obj\Debug\GPX Image Exporter.csproj.AssemblyReference.cache
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\obj\Debug\GPX_Image_Exporter.Form1.resources
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\obj\Debug\GPX_Image_Exporter.Properties.Resources.resources
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\obj\Debug\GPX Image Exporter.csproj.GenerateResource.cache
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\obj\Debug\GPX Image Exporter.csproj.CoreCompileInputs.cache
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\obj\Debug\GPX Image Exporter.exe
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\obj\Debug\GPX Image Exporter.pdb
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\AstrixGame\source\repos\GPX Image Exporter\GPX Image Exporter\obj\Debug\GPX Imag.0D2FF19E.Up2Date
