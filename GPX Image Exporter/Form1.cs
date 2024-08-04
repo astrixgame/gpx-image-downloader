@@ -1,4 +1,4 @@
-﻿using Microsoft.WindowsAPICodePack.Dialogs;
+using Microsoft.WindowsAPICodePack.Dialogs;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -175,10 +175,10 @@ namespace GPX_Image_Exporter
                 foreach (ImagePlace imgp in imageList)
                 {
                     n += 100;
-                    string pth = (destinationPath.Text.Replace("\\", "/") + "/" + imgp.GPXName).Trim(Path.GetInvalidFileNameChars()).Trim(Path.GetInvalidPathChars());
+                    string pth = (destinationPath.Text.Replace("\\", "/") + "/" + imgp.GPXName).Trim(Path.GetInvalidFileNameChars()).Trim(Path.GetInvalidPathChars()).Replace("?", "");
                     if (!Directory.Exists(pth))
                         Directory.CreateDirectory(pth);
-                    pth = (pth + "/" + imgp.PlaceName).Trim(Path.GetInvalidFileNameChars()).Trim(Path.GetInvalidPathChars());
+                    pth = (pth + "/" + imgp.PlaceName).Trim(Path.GetInvalidFileNameChars()).Trim(Path.GetInvalidPathChars()).Replace("?", "");
                     client.DownloadFile(imgp.URL, pth);
                     if(!File.Exists(pth + ".png"))
                         System.IO.File.Move(pth, pth + ".png");
